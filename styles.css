@@ -1,0 +1,88 @@
+styles.css
+        body {
+            line-height: 2.0;
+            margin: 1;
+            padding: 5px;
+            color: #4b4e53;
+            background-color: #fff;
+            border-style: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            border: 1px solid #4b4e53;
+            list-style: flex;
+        }
+        .header {
+            height: 1.5in;
+            padding-block: 10px;
+            text-align: center;
+            background-color: #4f666a;
+            color: #fff;
+            font-size: 20px;
+            font-family: "Julius Sans One", serif;
+            font-weight: 400;
+            font-style: normal;
+}
+        .header h1 {
+            margin: 10px 0;
+        }
+        .contact {
+            margin: 8px 0;
+            font-size: 15px;
+            font-variant: small-caps;
+            color: #fff;
+            text-decoration: none;
+            display:flexbox;
+            
+        }       
+        .contact a {
+            margin: 8px 0;
+            font-size: 16px;
+            font-variant: small-caps;
+            color: #fff;
+            text-decoration: none;
+            display: flexbox;
+        }
+        .section {
+            margin: 10px 0;
+            color: #4b4e53;
+            font-family: "Catamaran", serif;
+            font-optical-sizing: auto;
+            font-weight: 100;
+            font-style: normal;
+        }
+        .section h2 {
+            margin-bottom: 8px;
+            border-bottom: 3px solid #4b4e53;
+            padding-bottom: 5px;
+            font-size: x-large;
+            color: #4b4e53;
+
+        }
+        
+        .item {
+            margin-bottom: 8px;
+            
+        }
+        .item h3 {
+            margin: 0;
+            font-size: 18px;
+            color: #4b4e53;
+        }
+        .item p {
+            margin: 5px 0;
+            font-size: 14px;
+            font-weight: bold;
+           
+        }
+        .skills ul {
+            list-style: none;
+            padding: 0;
+            color: #4b4e53;
+        }
+        .skills ul li {
+        }
